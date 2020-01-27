@@ -1,0 +1,2 @@
+# GeometryInformaticsTechnologyInitiative.jl
+GIfTI format
